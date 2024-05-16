@@ -1,5 +1,4 @@
-# Certificates
-All my certificates.
+# Ericsson Certificates
 
 - [BCSS Cloud Fundamental Level](https://www.credly.com/badges/eba3c127-3fec-4008-870e-5989355d5e21/public_url)
 - [BCSS R&D (NDO) - Backend Development Fundamental Level Assessment](https://www.credly.com/badges/dd4fcabd-e76c-4b95-86e9-2554feb60634/public_url)
