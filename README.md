@@ -1,5 +1,6 @@
 # My Documents
 
+- [Parallel and Distributed Cloud computing](https://github.com/jxgc-coding/Certificates/blob/main/Parallel_and_distributed_cloud_Computing.pdf)
 - [Full CV - PDF](https://github.com/jxgc-coding/Certificates/blob/main/Jesus_Garrido_Full_CV.pdf)
 - [Full CV - DOCX](https://github.com/jxgc-coding/Certificates/blob/main/Jesus_Garrido_Full_CV.docx)
 - [Resume - PDF](https://github.com/jxgc-coding/Certificates/blob/main/Jesus%20Garrido%20Resume.pdf)
